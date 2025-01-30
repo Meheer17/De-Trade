@@ -1,0 +1,17 @@
+mahi17@fedora Decentralized-Stock-Trading-Platform]$ aptos account create --account 27909442DDBB6D83DD1450E162A116616FFFD10B28B4108D85E7129272E58590
+Do you want to submit a transaction for a range of [99700 - 149500] Octas at a gas unit price of 100 Octas? [yes/no] >
+yes
+Transaction submitted: https://explorer.aptoslabs.com/txn/0x2bb2aad0e04077295b483fa2ac3b966dc9e1b62a2a466e28e82a7d33cf69a5f4?network=testnet
+{
+  "Result": {
+    "transaction_hash": "0x2bb2aad0e04077295b483fa2ac3b966dc9e1b62a2a466e28e82a7d33cf69a5f4",
+    "gas_used": 997,
+    "gas_unit_price": 100,
+    "sender": "b11a9f9e5aed6f8809da684f6b3b5cfb02b45f023747c2c320f8a63cf5f446b1",
+    "sequence_number": 0,
+    "success": true,
+    "timestamp_us": 1738034277136890,
+    "version": 6606977339,
+    "vm_status": "Executed successfully"
+  }
+}
